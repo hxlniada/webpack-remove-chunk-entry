@@ -8,9 +8,6 @@
 npm install webpack-remove-chunk-entry --save-dev
 ```
 
-### features
-* generate unique chunk id based on unique module id
-
 ### usage
 ```javascript
 const RemoveChunkEntryPlugin = require('webpack-remove-chunk-entry');

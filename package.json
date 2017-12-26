@@ -1,0 +1,19 @@
+{
+  "name": "webpack-remove-chunk-entry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hxlniada/webpack-remove-chunk-entry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hxlniada/webpack-remove-chunk-entry/issues"
+  },
+  "homepage": "https://github.com/hxlniada/webpack-remove-chunk-entry#readme"
+}

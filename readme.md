@@ -1,7 +1,7 @@
 # webpack-remove-chunk-entry
 [![npm package](https://img.shields.io/npm/v/webpack-remove-chunk-entry.svg)](https://www.npmjs.org/package/webpack-remove-chunk-entry)
 [![npm downloads](http://img.shields.io/npm/dm/webpack-remove-chunk-entry.svg)](https://www.npmjs.org/package/webpack-remove-chunk-entry)
-> a plugin to help webpack to generate unique chunk id based on module id
+> a plugin to help webpack to remove chunk's entry code
 
 ### install
 ```
